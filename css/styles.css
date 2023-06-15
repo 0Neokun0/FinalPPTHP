@@ -489,8 +489,8 @@ progress {
 }
 
 .lead {
-  font-size: 1.25rem;
-  font-weight: 300;
+  font-size: 2.3rem;
+  font-weight: 500;
 }
 
 .display-1 {
@@ -11442,7 +11442,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 20rem;
+  width: 25rem;
 }
 
 @media (min-width: 992px) {
